@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @SammedBG
-- 🌱 I’m currently learning Web development 
