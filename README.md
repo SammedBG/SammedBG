@@ -9,8 +9,6 @@ I thrive on making ideas a reality by combining creativity with technical expert
 Whether I’m developing MERN-based web apps, training ML models, or deploying projects to the cloud,  
 I’m committed to delivering high-quality solutions that exceed expectations.  
 
-📌 Explore my repositories to view some of my projects, and feel free to reach out if you’d like to collaborate!  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammed-ghattad-4b7737310)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_LINK)  
 
