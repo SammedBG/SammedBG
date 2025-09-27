@@ -48,11 +48,4 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 ![Sammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=dark&hide_border=true)  
 
 ---
-
-## 📈 Top Languages  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SammedBG&layout=compact&theme=dark&hide_border=true)  
-
----
-
 ⭐️ *Feel free to explore my repositories and connect with me on LinkedIn!*  
