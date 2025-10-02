@@ -10,7 +10,7 @@ Whether I’m developing MERN-based web apps, training ML models, or deploying p
 I’m committed to delivering high-quality solutions that exceed expectations.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammed-ghattad-4b7737310)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_LINK)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://sammedbg.vercel.app/)  
 
 ---
 
