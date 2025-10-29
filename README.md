@@ -14,6 +14,15 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 
 ---
 
+## 🔄 Ongoing Projects  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=intelligent_tracking_system&theme=dark&hide_border=true)](https://github.com/SammedBG/intelligent_tracking_system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=rag_chatbot&theme=dark&hide_border=true)](https://github.com/SammedBG/rag_chatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=student_dropout_prediction&theme=dark&hide_border=true)](https://github.com/SammedBG/student_dropout_prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=portfolio-v2&theme=dark&hide_border=true)](https://github.com/SammedBG/portfolio-v2)
+
+---
+
 ## 🛠️ Tools, Libraries, and Technologies I’ve worked with  
 
 <p align="left">
@@ -46,4 +55,5 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 ![Sammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=dark&hide_border=true)  
 
 ---
+
 ⭐️ *Feel free to explore my repositories and connect with me on LinkedIn!*  
