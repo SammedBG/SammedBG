@@ -38,7 +38,6 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 ## 🔄 Ongoing Projects  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=Ai-Powered-Voice-Assistant&theme=dark)]([https://github.com/SammedBG/intelligent_tracking_system](https://github.com/SammedBG/Ai-Powered-Voice-Assistant.git))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=QR-Based-Attendance-Management-System&theme=dark)]([https://github.com/SammedBG/rag_chatbot](https://github.com/SammedBG/QR-Based-Attendance-Management-System.git))
 
 ---
 
