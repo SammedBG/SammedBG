@@ -51,7 +51,7 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 
 ## 🔥 GitHub Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com?username=sammedBG&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=SammedBG&theme=dark&hide_border=true)
 
 ---
 
