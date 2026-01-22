@@ -1,4 +1,5 @@
 # ⚡ Sammed BG  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=Sammed)
 
 **Full Stack Developer (MERN) | AI/ML | Python Developer**  
 
