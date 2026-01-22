@@ -35,10 +35,7 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 
 ---
 
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sammedBG&style=flat)
-
 
 ---
 
