@@ -35,6 +35,13 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 
 ---
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=sammedBG&color=blue)
+
+---
+
+
 ## 🔄 Ongoing Projects  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=NEXA---Ai-Powered-Voice-Assistant&theme=dark)](https://github.com/SammedBG/NEXA---Ai-Powered-Voice-Assistant.git)
