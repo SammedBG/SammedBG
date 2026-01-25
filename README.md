@@ -1,7 +1,7 @@
 # ⚡ Sammed BG  
 
 **Full Stack Developer (MERN) | AI/ML | Python Developer**  
-
+ 
 Hi! My name is **Sammed**, and I am passionate about full stack development, AI/ML, and building smart applications.  
 With a focus on clean, efficient code, I specialize in creating scalable web applications and intelligent solutions.  
 I thrive on making ideas a reality by combining creativity with technical expertise.  
