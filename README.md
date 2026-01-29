@@ -56,8 +56,9 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 
 ## 📊 GitHub Stats  
 
-![Sammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
 ---
 
 
