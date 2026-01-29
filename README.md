@@ -56,9 +56,7 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 
 ## 📊 GitHub Stats  
 
-![Profile Views](https://komarev.com/ghpvc/?username=SammedBG&label=Profile%20Views&color=0e75b6&style=flat)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SammedBG&layout=compact&theme=dark&hide_border=true)
+![Sammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=dark&hide_border=true)  
 
 ---
 
