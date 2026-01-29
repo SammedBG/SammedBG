@@ -42,7 +42,7 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 
 ## 🔄 Ongoing Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=NEXA---Ai-Powered-Voice-AssistantPrivate&theme=dark&hide_border=true)](https://github.com/SammedBG/NEXA---Ai-Powered-Voice-Assistant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=NEXA---Ai-Powered-Voice-Assistant&theme=dark&hide_border=true)](https://github.com/SammedBG/NEXA---Ai-Powered-Voice-Assistant)
 
 
 ---
