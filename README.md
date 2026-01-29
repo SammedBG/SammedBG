@@ -42,20 +42,21 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 
 ## 🔄 Ongoing Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=intelligent_tracking_system&theme=dark&hide_border=true)](https://github.com/SammedBG/NEXA---Ai-Powered-Voice-Assistant.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=intelligent_tracking_system&theme=dark&hide_border=true)](https://github.com/SammedBG/NEXA---Ai-Powered-Voice-Assistant)
 
 
 ---
 
 ## 🔥 GitHub Streak  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SammedBG&theme=dark&hide_border=true) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SammedBG&theme=dark&hide_border=true)
+ 
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Sammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=dark&hide_border=true)  
+![Sammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
