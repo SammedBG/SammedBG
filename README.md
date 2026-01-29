@@ -42,7 +42,8 @@ I’m committed to delivering high-quality solutions that exceed expectations.
 
 ## 🔄 Ongoing Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SammedBG&repo=NEXA---Ai-Powered-Voice-Assistant&theme=dark&hide_border=true)](https://github.com/SammedBG/NEXA---Ai-Powered-Voice-Assistant)
+NEXA – AI Powered Voice Assistant
+Developing a Python-based intelligent voice assistant that uses speech recognition and natural language processing to perform tasks, automate workflows, and provide smart, real-time responses
 
 
 ---
