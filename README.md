@@ -57,7 +57,7 @@ Developing a Python-based intelligent voice assistant that uses speech recogniti
 
 ## 📊 GitHub Stats  
 
-![Sammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+![Sammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
