@@ -175,8 +175,11 @@
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SammedBG&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SammedBG&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&cache_seconds=86400" alt="GitHub Trophies"/>
 </p>
+
+<!-- Fallback: If trophies don't load, try this alternative URL -->
+<!-- <img src="https://github-trophies.vercel.app/?username=SammedBG&theme=tokyonight&no-frame=true&no-bg=true&column=7" /> -->
 
 ---
 
@@ -185,43 +188,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SammedBG/SammedBG/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<details>
-<summary>🔧 <b>How to set up the Snake Animation</b></summary>
-<br>
-
-1. Create a repo named `SammedBG` (same as your username)  
-2. Go to **Actions** → **New Workflow** → paste:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SammedBG
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Run it manually once from **Actions** tab → **Generate Snake** → **Run workflow**
-
-</details>
 
 ---
 
