@@ -14,33 +14,21 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sammed-ghattad-4b7737310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://sammedbg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/sammedghattad241"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>&nbsp;
   <a href="mailto:sammedbg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=sammedBG&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Belagavi,_Karnataka-333?style=flat-square"/>&nbsp;
-  <img src="https://img.shields.io/badge/35+_Repos-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/821+_Contributions-0D1117?style=flat-square&logo=github&logoColor=38BDF8"/>&nbsp;
-  <img src="https://img.shields.io/badge/PRO-8957E5?style=flat-square&logo=github&logoColor=whiter=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=sammedBG&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 <br/>
 
 <!-- About Me Section -->
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/>
+<img align="right" src="https://github.com/sammedBG/sammedBG/blob/main/coding.gif?raw=true" width="320" alt="coding gif" onerror="this.src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif'; this.onerror=null;"/>
 
 ### 🧑‍💻 &nbsp;About Me
-working on **EduRAG** – RAG-powered Educational Chatbot & **NutriTrack** – AI Nutrition Tracker  
-- 🌱 Exploring **LLMs, LangChain, RAG & Cloud Architecture**  
+
+- 🔭 Currently building **NEXA** – AI Powered Voice Assistant  
+- 🌱 Exploring **LLMs, LangChain & Cloud Architecture**  
 - 💼 Specializing in **MERN Stack & Python Development**  
-- 🧠 Passionate about **AI/ML, NLP, Computer Vision & Deep Learning**  
-- 🏆 Achievements: **Pull Shark x2 · Quickdraw · YOLO**  
-- 🎯 **35+ repositories** | **821+ contributions** in the last year Deep Learning**  
-- 📍 Based in **Belagavi, Karnataka, India**  
-- 🏆 **35+ repositories** | **GitHub Pro** | Pull Shark x2  
+- 🧠 Passionate about **AI/ML, NLP & Deep Learning**  
 - 🎯 Goal: Build products that **make a real impact**  
 - ⚡ Fun fact: I debug with `print()` before reaching for a debugger  
 
@@ -94,143 +82,65 @@ working on **EduRAG** – RAG-powered Educational Chatbot & **NutriTrack** – A
 ## 🚀 &nbsp;Featured Projects
 
 <table>
-<tr>� EduRAG – AI Educational Chatbot
-> A chatbot that enhances learning by retrieving educational content using RAG (Retrieval-Augmented Generation) and providing interactive Q&A for students.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/EduRAG--Retrieval-Augmented-Educational-Chatbot)
-
-</td>
-<td width="50%">
-
-### 🍎 NutriTrack – AI Nutrition Tracker
-> An AI-powered nutrition tracking app that lets users click a photo of food and analyze its nutritional content (calories, macros, etc.) using image recognition & ML models.
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Image_Recognition-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</p>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/NutriTrack)
-
-</td>
-</tr>
 <tr>
 <td width="50%">
 
-### 🍽️ Online Catering Website
-> A full-stack catering service website that allows users to browse menus, place online orders, and manage bookings seamlessly.
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/⭐_1-FFD700?style=flat-square"/>
-</p>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/Online-catering-website)
-
-</td>
-<td width="50%">
-
-### 👁️ Intelligent Face Tracking System
-> AI-based intelligent tracking system with face detection and recognition to improve security and real-time monitoring.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-</p>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/intelligent_tracking_system_face_detectin_and_recognition)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📄 Automated Resume Relevance Checker
-> An automated system that analyzes resumes and checks their relevance against job descriptions using NLP techniques.
+### 🗣️ NEXA – AI Voice Assistant
+> Python-based intelligent voice assistant using speech recognition & NLP to automate workflows and provide smart, real-time responses.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Speech_Recognition-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </p>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/Automated-Resume-Relevance-Check-System)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/NEXA)
 
 </td>
 <td width="50%">
 
-### 🔗 Bitespeed Identity Reconciliation
-> Identity reconciliation backend using Node.js, TypeScript, Prisma & PostgreSQL with transactional merge logic and concurrency safety.
+### � Portfolio Website
+> Personal portfolio built with modern web technologies, showcasing projects, skills, and experience with a clean responsive UI.
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/bitespeed-identity-reconciliation)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/SammedBG?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_35+_Repos_→-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</psrc="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-</p>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/Online-catering-website)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sammedbg.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 👁️ Intelligent Face Tracking System
-> AI-based intelligent tracking system with face detection and recognition to improve security and real-time monitoring.
+### � Project 3
+> _Coming soon — Add your next awesome project here!_
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/intelligent_tracking_system_face_detectin_and_recognition)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 <td width="50%">
 
-### 🤖 AI Code Reviewer for PRs
-> Automated AI-powered code reviewer that analyzes pull requests and provides intelligent feedback on code quality.
+### 🤖 Project 4
+> _Coming soon — Add your next awesome project here!_
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-38BDF8?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 </p>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/AI-Code-Reviewer-for-Pull-Requests)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/SammedBG?tab=repositories"><img src="https://img.shields.io/badge/View_All_35+_Repos-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -279,8 +189,7 @@ working on **EduRAG** – RAG-powered Educational Chatbot & **NutriTrack** – A
 name: Generate Snake
 
 on:
-  schedule:https://www.hackerrank.com/profile/sammedghattad241"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>&nbsp;
-  <a href="
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -322,7 +231,6 @@ jobs:
   <i>I'm always open to collaborating on exciting projects and innovative ideas.</i><br><br>
   <a href="https://www.linkedin.com/in/sammed-ghattad-4b7737310"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://sammedbg.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/sammedghattad241"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>&nbsp;
   <a href="mailto:sammedbg@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
