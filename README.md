@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sammed-ghattad-4b7737310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://sammedbg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>&nbsp;
-  <a href="mailto:sammedbg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="mailto:sammedghattad2413@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=sammedBG&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
@@ -99,44 +99,52 @@
 </td>
 <td width="50%">
 
-### � Portfolio Website
-> Personal portfolio built with modern web technologies, showcasing projects, skills, and experience with a clean responsive UI.
+### 📚 EduRAG – AI Document Chatbot
+> Full-stack RAG chatbot with React & FastAPI — upload PDFs, ask questions, and get AI-powered answers with source citations using FAISS vector search.
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-3B5998?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-FF6600?style=flat-square&logo=groq&logoColor=white"/>
 </p>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sammedbg.vercel.app/)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/EduRAG--Retrieval-Augmented-Educational-Chatbot)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### � Project 3
-> _Coming soon — Add your next awesome project here!_
+### 🍽️ Online Catering Website
+> Full-stack MERN app for catering service management — browse menus, book events, real-time admin dashboard with Socket.IO notifications.
 
 <p>
-  <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 </p>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/Online-catering-website) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://sachincateringservices.vercel.app/)
 
 </td>
 <td width="50%">
 
-### 🤖 Project 4
-> _Coming soon — Add your next awesome project here!_
+### 🔍 Intelligent Face Tracking System
+> AI-powered real-time face detection & recognition using YOLOv8 and ArcFace with attribute extraction (age, gender, glasses, mask) for security monitoring.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/InsightFace-FF4500?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
 </p>
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SammedBG/intelligent_tracking_system_face_detectin_and_recognition)
 
 </td>
 </tr>
@@ -231,7 +239,7 @@ jobs:
   <i>I'm always open to collaborating on exciting projects and innovative ideas.</i><br><br>
   <a href="https://www.linkedin.com/in/sammed-ghattad-4b7737310"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://sammedbg.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>&nbsp;
-  <a href="mailto:sammedbg@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sammedghattad2413@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <br>
