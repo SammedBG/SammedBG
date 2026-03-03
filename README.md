@@ -156,8 +156,8 @@
 
 <p align="center">
   <a href="https://github.com/SammedBG">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&ring_color=38BDF8&cache_seconds=86400" alt="Sammed's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammedBG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=SammedBG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&ring_color=38BDF8" alt="Sammed's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=SammedBG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
@@ -175,11 +175,8 @@
 ## 🏆 &nbsp;GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SammedBG&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&cache_seconds=86400" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=SammedBG&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </p>
-
-<!-- Fallback: If trophies don't load, try this alternative URL -->
-<!-- <img src="https://github-trophies.vercel.app/?username=SammedBG&theme=tokyonight&no-frame=true&no-bg=true&column=7" /> -->
 
 ---
 
