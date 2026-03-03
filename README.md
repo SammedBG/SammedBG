@@ -21,7 +21,7 @@
 <br/>
 
 <!-- About Me Section -->
-<img align="right" src="https://github.com/sammedBG/sammedBG/blob/main/coding.gif?raw=true" width="320" alt="coding gif" onerror="this.src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif'; this.onerror=null;"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/>
 
 ### 🧑‍💻 &nbsp;About Me
 
@@ -156,13 +156,13 @@
 
 <p align="center">
   <a href="https://github.com/SammedBG">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&ring_color=38BDF8" alt="Sammed's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammedBG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SammedBG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&ring_color=38BDF8&cache_seconds=86400" alt="Sammed's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SammedBG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SammedBG&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SammedBG&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
