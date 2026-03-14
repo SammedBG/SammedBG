@@ -10,6 +10,7 @@
   </a>
 </p>
 
+
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sammed-ghattad-4b7737310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
