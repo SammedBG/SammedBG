@@ -14,8 +14,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sammed-ghattad-4b7737310"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://x.com/GhattadSammed"><img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>&nbsp;
+  <a href="https://x.com/GhattadSammed"><img src="https://img.shields.io/badge/Follow%20on%20X?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
   <a href="https://sammedbg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>&nbsp;
   <a href="mailto:sammedghattad2413@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=sammedBG&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views"/>
