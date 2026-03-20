@@ -174,14 +174,6 @@
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=SammedBG&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🐍 &nbsp;Contribution Snake
 
 <p align="center">
@@ -205,6 +197,7 @@
   <a href="https://www.linkedin.com/in/sammed-ghattad-4b7737310"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://sammedbg.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>&nbsp;
   <a href="mailto:sammedghattad2413@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/GhattadSammed"><img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 <br>
