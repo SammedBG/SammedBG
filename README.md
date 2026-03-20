@@ -167,11 +167,6 @@
   <img src="https://streak-stats.demolab.com?user=SammedBG&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SammedBG&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FF6B6B&area=true&area_color=38BDF8&hide_border=true" alt="Activity Graph"/>
-</p>
-
 ---
 
 ## 🐍 &nbsp;Contribution Snake
