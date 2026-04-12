@@ -1,3 +1,4 @@
+
 <!-- Custom Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sammed%20BG&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20%7C%20Python%20Developer&descSize=20&descAlignY=55" width="100%"/>
