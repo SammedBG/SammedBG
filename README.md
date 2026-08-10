@@ -39,141 +39,49 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ &nbsp;Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### 🌐 Frontend
-
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="50"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" height="50"/>
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" height="50"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=4" />
 </p>
+
+</td>
+<td valign="top" width="33%">
 
 ### ⚙️ Backend
-
-<p>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" height="50"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://skillicons.dev/icons?i=flask" height="50"/>
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,mongodb,mysql,postgres&perline=4" />
 </p>
 
-### 🗄️ Databases
-
-<p>
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
-  </a>
-</p>
+</td>
+<td valign="top" width="33%">
 
 ### 🧰 Tools & Cloud
-
-<p>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" height="50"/>
-  </a>
-  <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" height="50"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" height="50"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-  </a>
-  <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" height="50"/>
-  </a>
-  <a href="https://github.com/features/actions">
-    <img src="https://skillicons.dev/icons?i=githubactions" height="50"/>
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,figma&perline=4" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ### 🤖 AI / ML
-
-<p>
-  <a href="https://pytorch.org/">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
-  </a>
-  <a href="https://numpy.org/">
-    <img src="https://cdn.simpleicons.org/numpy/013243" height="50"/>
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://cdn.simpleicons.org/pandas/150458" height="50"/>
-  </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="50"/>
-  </a>
-  <a href="https://opencv.org/">
-    <img src="https://skillicons.dev/icons?i=opencv" height="50"/>
-  </a>
-  <a href="https://ai.google.dev/edge/mediapipe/solutions/guide">
-    <img src="https://cdn.simpleicons.org/mediapipe/0097A7" height="50"/>
-  </a>
-  <a href="https://github.com/ultralytics/ultralytics">
-    <img src="https://cdn.simpleicons.org/ultralytics/111111" height="50"/>
-  </a>
-  <a href="https://github.com/deepinsight/insightface">
-    <img src="https://cdn.simpleicons.org/insightface/00A98F" height="50"/>
-  </a>
-  <a href="https://faiss.ai/">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="50"/>
-  </a>
-  <a href="https://www.langchain.com/">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="50"/>
-  </a>
-  <a href="https://huggingface.co/">
-    <img src="https://skillicons.dev/icons?i=huggingface" height="50"/>
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
+
 ---
+
 
 ## 📊 &nbsp;GitHub Analytics
 
