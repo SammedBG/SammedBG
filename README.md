@@ -6,11 +6,10 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=140&lines=AI%2FML+Engineer;Full-Stack+Developer;Applied+AI+Engineer;Computer+Vision+Engineer;LLM+%26+RAG+Developer" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+scalable+web+apps+%26+intelligent+solutions;%F0%9F%A4%96+Exploring+AI%2FML+%7C+Deep+Learning+%7C+NLP;%F0%9F%8C%90+MERN+Stack+%7C+Cloud+%7C+DevOps" alt="Typing SVG" />
+</a>
 </p>
-
 
 <!-- Social Badges -->
 <p align="center">
