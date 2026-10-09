@@ -72,14 +72,34 @@
 </tr>
 </table>
 
-### 🤖 AI / ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" />&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+### 🤖 AI / ML & Deep Learning
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+### 🧠 LLMs & GenAI Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-Pipelines-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Agentic%20AI-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt-Engineering-F59E0B?style=for-the-badge" />
 </p>
 
 ---
