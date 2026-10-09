@@ -7,7 +7,7 @@
 <!-- Typing SVG -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+scalable+web+apps+%26+intelligent+solutions;%F0%9F%A4%96+Exploring+AI%2FML+%7C+Deep+Learning+%7C+NLP;%F0%9F%8C%90+MERN+Stack+%7C+Cloud+%7C+DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=130&lines=%F0%9F%9A%80+AI+Engineer+building+production-ready+AI+systems;%F0%9F%A4%96+LLMs+%7C+RAG+%7C+LangChain+%7C+AI+Agents;%E2%98%81%EF%B8%8F+Python+%7C+FastAPI+%7C+Docker+%7C+Cloud" alt="Typing SVG" />
 </a>
 </p>
 
@@ -21,18 +21,21 @@
 </p>
 
 <br/>
-
 <!-- About Me Section -->
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="coding gif"/>
 
 ### 🧑‍💻 &nbsp;About Me
 
-- 🔭 Currently building **NEXA** – AI Powered Voice Assistant  
-- 🌱 Exploring **LLMs, LangChain & Cloud Architecture**  
-- 💼 Specializing in **MERN Stack & Python Development**  
-- 🧠 Passionate about **AI/ML, NLP & Deep Learning**  
-- 🎯 Goal: Build products that **make a real impact**  
-- ⚡ Fun fact: I debug with `print()` before reaching for a debugger  
+- 💼 AI Engineer turning ML models into **production-ready systems**
+- 🤖 Day-to-day: **LLMs, RAG pipelines, LangChain & prompt engineering**
+- 🚀 Deploying models with **Docker, AWS/GCP/Azure & CI/CD**
+- 📊 Evaluating and monitoring LLM output quality, latency and cost
+- ⚙️ Optimizing inference for **speed and cost**
+- 📚 Currently learning: **agentic AI, MCP, fine-tuning & multimodal models**
+- 📝 Writing about what I learn building AI systems
+- 🤝 Open to collaborating on **open-source AI projects**
+- 🎯 Goal: Build AI products that **solve real problems at scale**
+- ⚡ Fun fact: I debug with `print()` before reaching for a debugger
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/sammed-ghattad/)**  
 
 <br clear="right"/>
 
