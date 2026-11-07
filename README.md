@@ -128,6 +128,13 @@
 
 ---
 
+## 🐟 &nbsp;Contribution Koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
+
+---
 <!-- Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
